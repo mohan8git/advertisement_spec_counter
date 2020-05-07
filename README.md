@@ -129,3 +129,4 @@ Then you can try [train.py](deep_sort/deep/train.py) to train your own parameter
 
 
 
+This was collaborative work along with my friends by refering online.
