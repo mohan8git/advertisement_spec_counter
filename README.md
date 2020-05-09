@@ -1,3 +1,9 @@
+==================================================================================================================
+
+This project was done for getting hands on on Machine learning libraries.
+And as a project for my company.
+
+===================================================================================================================
 # Deep Sort with PyTorch
 
 ![](demo/demo.gif)
