@@ -4,7 +4,9 @@ This project was done for getting hands on on Machine learning libraries.
 And as a project for my company.
 
 It happens to find the number of the viewer who sees the person who walk in front of them and in resoponse it shows the total count.
-Works better in GPU mobile.
+Works better in GPU PCS.
+
+
 
 ===================================================================================================================
 # Deep Sort with PyTorch
